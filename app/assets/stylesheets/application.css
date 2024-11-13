@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ .negative-margin{
+  margin-top: -50px;
+ }
